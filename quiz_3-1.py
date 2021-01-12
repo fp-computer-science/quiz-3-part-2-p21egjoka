@@ -3,7 +3,7 @@
 younglings = ['Petro', 'Katooni', 'Byph', 'Ganodi', 'Zatt', 'Gungi']
 race = ['Human', 'Tholothian', 'Ithorian', 'Rodian', 'Nautolan', 'Wookie']
 
-def yoda_paramters(name, race):
+def ydprmtrs(name, race):
     hmn = [name[0] + ', ' + race[0]]
     thlthn = [name[1] + ', ' + race[1]]
     thrn = [name[2] + ', ' + race[2]]
@@ -13,4 +13,4 @@ def yoda_paramters(name, race):
     l_st = [hmn] + [thlthn] + [thrn] + [rdn] + [ntln] + [wk]
     print(l_st)
 
-print(yoda_paramters(younglings, race))
+print(ydprmtrs(younglings, race))
