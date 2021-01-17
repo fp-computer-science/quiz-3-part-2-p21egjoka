@@ -1,0 +1,5 @@
+Question 1 & 2
+You did not use loops in your answers.
+
+Question 3
+Your program does not run multiple times and does not have a function.
